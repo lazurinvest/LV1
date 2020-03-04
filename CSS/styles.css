@@ -4,7 +4,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: sans-serif;
-
 }
 
 h1 {
@@ -44,9 +43,11 @@ a {
 a:hover {
   color: #EAF6F6;
 }
+
 .footer-link {
   color: #11999E;
 }
+
 .top-container  {
   background-color: #beebe9;
   position: relative;
@@ -57,6 +58,7 @@ a:hover {
   width: 40%;
   margin: 40px auto 60px;
 }
+
 .middle-container {
   margin: 100px 0;
 }
@@ -75,7 +77,6 @@ p {
   margin: 100px auto 100px auto;
   text-align: left;
 
-
 }
 .out {
   text-decoration: underline;
@@ -85,6 +86,7 @@ p {
   width: 30%;
   margin: auto;
 }
+
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -96,6 +98,7 @@ p {
   left: 300px;
   bottom: 300px;
 }
+
 .bear {
   width: 20%;
   text-align: center;
@@ -118,6 +121,7 @@ p {
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
 .button {
   -moz-box-shadow:inset 0px 1px 0px 0px #bee2f9;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #bee2f9;
